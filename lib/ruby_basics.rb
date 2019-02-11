@@ -10,7 +10,7 @@ def argue
   pharse ="I'm right and you are wrong!"
 end
 
-def (greeting= "Hi, there"
+def
 
 end
 
