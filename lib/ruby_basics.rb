@@ -7,7 +7,7 @@ def assign_variable(value)
 end
 
 def argue
-  pharse ="I'm right and your wrong!"
+  pharse ="I'm right and you are wrong!"
 end
 
 def greeting
